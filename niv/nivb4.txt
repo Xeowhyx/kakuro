@@ -1,0 +1,7 @@
+x(z5,zz)(21,zz)(29,zz)xxx
+(zz,15)___xxx
+(zz,21)___(z4,zz)xx
+x(zz,15)___xx
+x(zz,z8)___xx
+xxxxxxx
+xxxxxxx

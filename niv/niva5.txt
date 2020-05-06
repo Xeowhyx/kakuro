@@ -1,0 +1,7 @@
+xx(14,zz)xxxx
+x(13,zz)_xxxx
+(zz,10)__(12,zz)xxx
+(zz,10)____xx
+x(zz,17)__xxx
+xxxxxxx
+xxxxxxx

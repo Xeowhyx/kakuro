@@ -1,0 +1,7 @@
+x(z7,zz)(34,zz)xxxx
+(zz,z6)__x(z6,zz)(15,zz)x
+(zz,z9)__(23,z3)__x
+(zz,25)_____(z6,zz)
+x(zz,24)_____
+x(zz,17)__(zz,z4)__
+xxxx(zz,z3)__

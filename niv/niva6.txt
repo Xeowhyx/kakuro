@@ -1,0 +1,7 @@
+xxx(z5,zz)(20,zz)xx
+x(18,zz)(10,13)__(19,zz)x
+(zz,25)_____x
+(zz,z3)__(z5,15)__x
+(zz,18)_____x
+x(zz,z3)__xxx
+xxxxxxx

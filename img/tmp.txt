@@ -1,0 +1,7 @@
+xxx(z6,zz)(17,zz)xx
+xx(z7,z9)__xx
+x(z3,12)___xx
+(zz,z6)___xxx
+(zz,z6)__xxxx
+xxxxxxx
+xxxxxxx

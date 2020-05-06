@@ -1,0 +1,7 @@
+x(16,zz)(11,zz)xxxx
+(zz,17)__xxxx
+(zz,10)__(z8,zz)(z7,zz)xx
+xx(zz,12)__xx
+xx(zz,z3)__xx
+xxxxxxx
+xxxxxxx

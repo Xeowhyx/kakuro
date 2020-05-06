@@ -1,0 +1,7 @@
+xx(14,zz)(12,zz)xxx
+x(13,17)__(28,zz)(22,zz)x
+(zz,15)_____x
+(zz,12)__(z3,16)__x
+(zz,23)_____x
+xx(zz,z9)__xx
+xxxxxxx

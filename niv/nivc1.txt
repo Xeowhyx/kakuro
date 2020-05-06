@@ -1,0 +1,7 @@
+xxxx(23,zz)(z6,zz)(16,zz)
+xx(z7,zz)(24,15)___
+x(z3,27)_____
+(zz,25)_____x
+(zz,12)___xxx
+xxxxxxx
+xxxxxxx
