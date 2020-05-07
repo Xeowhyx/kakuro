@@ -13,3 +13,8 @@ https://drive.google.com/file/d/1VwKADm31q5fbkuzfhv4drbi2yveXHu2b/view
 **Left Click**: Complète un élément de la grille\
 **Right Click**: Supprime un élément de la grille\
 **Escape**: Navigation retour des menus\
+
+## Requirements
+
+Python 2.7.16\
+Pygame 1.9.6
