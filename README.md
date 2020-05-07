@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1VwKADm31q5fbkuzfhv4drbi2yveXHu2b/view
 **CTRL+R**:  Réinitialiser la grille\
 **Left Click**: Complète un élément de la grille\
 **Right Click**: Supprime un élément de la grille\
-**Escape**: Navigation retour des menus\
+**Escape**: Navigation retour des menus
 
 ## Requirements
 
