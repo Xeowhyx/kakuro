@@ -7,9 +7,9 @@ https://drive.google.com/file/d/1VwKADm31q5fbkuzfhv4drbi2yveXHu2b/view
 
 ## Commande
 
-**H**: Affiche une aide\
-**R**: Retourne à la dernière sauvegarde\
-**CTRL+R**:  Réinitialiser la grille\
-**Left Click**: Complète un élément de la grille\
-**Right Click**: Supprime un élément de la grille\
-**Escape**: Navigation retour des menus\
+_**H**_: Affiche une aide\
+_**R**_: Retourne à la dernière sauvegarde\
+_**CTRL+R**_:  Réinitialiser la grille\
+_**Left Click**_: Complète un élément de la grille\
+_**Right Click**_: Supprime un élément de la grille\
+_**Escape**_: Navigation retour des menus\
